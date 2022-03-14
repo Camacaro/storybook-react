@@ -10,7 +10,7 @@ Github Page
 Cambiar el nombre de la carpeta storybook-static (o mi build)
 por docs
 
-Chromatic 
+Chromatic (https://www.chromatic.com/)
 Esto sirve para aprobar los componentes visuales entre un equipo
 (debes de tener más de un commit)
 $ yarn add --dev chromatic
