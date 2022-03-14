@@ -9,3 +9,10 @@ con los del storybook que salieron en el start y el build
 Github Page
 Cambiar el nombre de la carpeta storybook-static (o mi build)
 por docs
+
+Chromatic 
+(debes de tener más de un commit)
+$ yarn add --dev chromatic
+npx chromatic --project-token=3d1f0a6c4a4c
+Correr un nuevo cambio al chromatic
+$ yarn chromatic
