@@ -20,3 +20,7 @@ $ yarn chromatic
 
 Github Actions
 Se modifco el tsconfig.json y el package.json (se agregaron algunos script como release)
+
+Semanti version 
+Seguir esta regla para los commit 
+https://www.npmjs.com/package/semantic-release
