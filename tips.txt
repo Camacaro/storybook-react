@@ -17,3 +17,6 @@ $ yarn add --dev chromatic
 npx chromatic --project-token=3d1f0a6c4a4c
 Correr un nuevo cambio al chromatic
 $ yarn chromatic
+
+Github Actions
+Se modifco el tsconfig.json y el package.json (se agregaron algunos script como release)
